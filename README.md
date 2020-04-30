@@ -5,7 +5,7 @@
 - Alexandre (alexandre221@gmail.com - alexandre-malabarba)
 - Felipe Macedo (felipe.x.macedo@gmail.com - xmacedo)
 - Felipe Wurth (felipewurch@gmail.com - felipewurch)
-- Crislaine Soares ( Crislainesoares)
+- Crislaine Soares (crislainecsoares@gmail.com - crislainecsoares)
 - Leo Miranda ( leomiranda1995@gmail.com - leomiranda1995)
 
 ### [Backend](https://github.com/xmacedo/XurebinhaBanking/tree/master/backend)
